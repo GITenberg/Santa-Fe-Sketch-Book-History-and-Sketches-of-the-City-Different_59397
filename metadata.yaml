@@ -1,11 +1,16 @@
 _repo: Santa-Fe-Sketch-Book-History-and-Sketches-of-the-City-Different_59397
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 59397-h/images/cover.jpg
 creator:
   author:
     agent_name: Ewen, Lewis Edward
     gutenberg_agent_id: '50430'
     url: http://www.gutenberg.org/2009/agents/50430
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59397#Santa-Fe-Sketch-Book-History-and-Sketches-of-the-City-Different
 gutenberg_issued: '2019-04-30'
 gutenberg_type: Text
 identifiers:
